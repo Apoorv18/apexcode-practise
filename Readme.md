@@ -1,7 +1,5 @@
 # Salesforce Apex Practise Repo
 
-##  [Trailhead Profile](https://trailblazer.me/id/apoorv-vatsal)
-
 
 + Objective
     - Repository objective is to safekeep and showcase Apex codes written by me during various Trailhead Modules
